@@ -1,5 +1,3 @@
-# Assessment1
-
 # Solidity Functions and Error Handling
 
 Overview
@@ -30,8 +28,4 @@ Sean Ydnar A. Abellanosa
 
 ## License
 This project operates under the MIT License - refer to the LICENSE.md file for specifics.
-Author
-Sean Ydnar A. Abellanosa
 
-License
-This project operates under the MIT License - refer to the LICENSE.md file for specifics.
