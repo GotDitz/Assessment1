@@ -3,7 +3,7 @@ pragma solidity 0.8.25;
 
 //Write a smart contract that implements the require(), assert() and revert() statements.
 
-contract MyContract {
+contract ModuleContract {
 
     // Mapping variable to store balances
     mapping(address => uint) public balances;
